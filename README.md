@@ -12,6 +12,10 @@ A RESTful API endpoint that return profile information, along with dynamic cat f
 - ISO 8601 timestamp formatting
 - CORS enabled for cross-origin requesets
 
+##
+
+\*\*Production URL: "https://hng-repo-backend-production.up.railway.app/me"
+
 ## Git-hub Repository link
 
 - https://github.com/danielndu890/Hng-repo-Backend.git
@@ -22,14 +26,6 @@ A RESTful API endpoint that return profile information, along with dynamic cat f
 2. Install dependencies
 3. Set up enviroment variable
 4. Start the server
-
-## Dependencies
-
-- express
-- axios
-- cors
-- nodemon
-  (npm i express axios cors nodemon)
 
 ## Run locally
 
@@ -46,3 +42,11 @@ npm start
 server runs on : 'http://localhost:7878'
 
 Set : 'http://localhost:7878/me' to get cat facts data
+
+## Dependencies
+
+- express
+- axios
+- cors
+- nodemon
+  (npm i express axios cors nodemon)
