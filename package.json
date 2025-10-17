@@ -1,0 +1,19 @@
+{
+  "name": "hng-work",
+  "version": "1.0.0",
+  "description": "Hng test 0",
+  "license": "ISC",
+  "author": "Daniel Ndubuisi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev" : "nodemon index.js"
+
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
