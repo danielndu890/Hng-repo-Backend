@@ -12,9 +12,9 @@ A RESTful API endpoint that return profile information, along with dynamic cat f
 - ISO 8601 timestamp formatting
 - CORS enabled for cross-origin requesets
 
-##
+## Deployment
 
-\*\*Production URL: "https://hng-repo-backend-production.up.railway.app/me"
+\*Production URL: "https://hng-repo-backend-production.up.railway.app/me"
 
 ## Git-hub Repository link
 
